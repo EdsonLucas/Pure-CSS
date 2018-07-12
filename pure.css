@@ -45,6 +45,22 @@ PADDING STYLE
 .p95     { padding: 95px; }
 .p100    { padding: 100px; }
 
+.pb-xs-0 { padding-bottom: 0; }
+.pb-xs-10 { padding-bottom: 10px }
+.pb-xs-20 { padding-bottom: 20px }
+.pb-xs-30 { padding-bottom: 30px }
+.pb-xs-40 { padding-bottom: 40px }
+.pb-xs-50 { padding-bottom: 50px }
+.pb-xs-60 { padding-bottom: 60px }
+.pb-xs-70 { padding-bottom: 70px }
+.pb-xs-80 { padding-bottom: 80px }
+.pb-xs-90 { padding-bottom: 90px }
+.pb-xs-100 { padding-bottom: 100px }
+.pb-xs-110 { padding-bottom: 110px }
+.pb-xs-120 { padding-bottom: 120px }
+.pb-xs-130 { padding-bottom: 130px }
+.pb-xs-140 { padding-bottom: 140px }
+
 .pt0    { padding-top: 0px; }
 .pt5    { padding-top: 5px; }
 .pt10   { padding-top: 10px; }
@@ -66,6 +82,22 @@ PADDING STYLE
 .pt90   { padding-top: 90px; }
 .pt95   { padding-top: 95px; }
 .pt100  { padding-top: 100px; }
+
+.pt-xs-0 { padding-top: 0px }
+.pt-xs-10 { padding-top: 10px }
+.pt-xs-20 { padding-top: 20px }
+.pt-xs-30 { padding-top: 30px }
+.pt-xs-40 { padding-top: 40px }
+.pt-xs-50 { padding-top: 50px }
+.pt-xs-60 { padding-top: 60px }
+.pt-xs-70 { padding-top: 70px  }
+.pt-xs-80 { padding-top: 80px }
+.pt-xs-90 { padding-top: 90px }
+.pt-xs-100 { padding-top: 100px }
+.pt-xs-110 { padding-top: 110px }
+.pt-xs-120 { padding-top: 120px }
+.pt-xs-130 { padding-top: 130px }
+.pt-xs-140 { padding-top: 140px }
 
 .pr0    { padding-right: 0px; }
 .pr5    { padding-right: 5px; }
